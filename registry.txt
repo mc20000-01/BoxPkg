@@ -1,0 +1,10 @@
+# BoxPkg registry
+#
+# Format: name|raw url|version|description|author
+#
+# Raw URLs point at packages/<name>.bx in this repository. Add a line here and
+# commit, then `umload search` and `umload install|<name>` will find it.
+#
+# name|raw url|version|description|author
+strutil|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/strutil.bx|1.0.0|Batch string transforms: slugify shout revwords padline title wrapat|boxedlang
+textwrap|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/textwrap.bx|1.0.0|Word wrapping and indentation, depends on strutil|boxedlang

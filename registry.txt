@@ -9,3 +9,4 @@
 strutil|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/strutil.bx|1.0.0|Batch string transforms: slugify shout revwords padline title wrapat|boxedlang
 textwrap|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/textwrap.bx|1.0.0|Word wrapping and indentation, depends on strutil|boxedlang
 aifuzzy|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/aifuzzy.bx|1.0.0|Levenshtein edit distance  similarity scoring  and best-match search|boxedlang
+advmath|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/advmath.bx|1.0.0|Friendly integer math  double halve triple square cube even odd neg abs min max mod percent sign clamp|boxedlang

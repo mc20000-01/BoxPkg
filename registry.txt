@@ -10,3 +10,4 @@ strutil|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/struti
 textwrap|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/textwrap.bx|1.0.0|Word wrapping and indentation, depends on strutil|boxedlang
 aifuzzy|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/aifuzzy.bx|1.0.0|Levenshtein edit distance  similarity scoring  and best-match search|boxedlang
 advmath|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/advmath.bx|1.0.0|Friendly integer math  double halve triple square cube even odd neg abs min max mod percent sign clamp|boxedlang
+math3d|https://raw.githubusercontent.com/mc20000-01/BoxPkg/main/packages/math3d.bx|1.0.0|Friendly 3D vector helpers over high.m3d  norm length dot cross dist add sub scale|boxedlang
